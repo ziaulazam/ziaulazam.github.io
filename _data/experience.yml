@@ -1,10 +1,28 @@
-# Experience template
+# Experience List
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: FARO Technologies Inc.
+  link: https://www.faro.com
+  job_title: Software Engineer (Research & Development)
+  dates: July 2018 - Present
+  #quote: >
+  #  Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Working on development of [FARO SCENE](https://www.faro.com/en-gb/products/construction-bim-cim/faro-scene/)
+    - A 3D documentation software for **processing, registering and visualizing large point clouds** from terrestrial and handheld 3D laser scanners
+    - Tasks:
+      - Algorithms for large point cloud data
+      - Managing huge legacy code base
+    - Technologies: C++17, Python, JavaScript
+
+- layout: left
+  company: Compositence GmbH.
+  link: https://www.compositence.com
+  job_title: Software Engineer (Product Development)
+  dates: January 2016 - June 2018
+  #quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Developed a CAD software used for 3D visualizations and robot path calculations
+    - Worked independently on geometric algorithms and feature development (design, development and testing)
+    - Open source contributions to [OpenCascade CAD Library](https://tracker.dev.opencascade.org/)
+    - Technologies: C++14, OpenCascade, Qt, Boost C++, Doxygen, Git, CMake
