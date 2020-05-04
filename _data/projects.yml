@@ -1,9 +1,12 @@
-# Project template
+# Project List
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Tech Hub
+  link: https://ziaulazam.github.io/tech-hub
+  github: ziaulazam/tech-hub
   quote: >
-    Short overview of the project (optional)
+    Collection of Wikis Containing Articles on Software Engineering Fundamentals and Technologies
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - I developed these collection of community driven wikis to serve as a knowledge management tool to aid learning efforts
+    - A wiki is a collection of arranged web page serving static content (learning notes, research) written in markdown files
+    - These wikis are arranged in a hierarchy using subwikis as well in order to logically group related topics
+    - Tools Used: <mark>React</mark> <mark>Docusaurus2</mark>

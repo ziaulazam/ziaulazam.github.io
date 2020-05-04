@@ -10,7 +10,7 @@
 
     **Master Thesis:** *Heuristics and Machine Learning for Real-time Software - Concept and Implementation*
       - Implemented a platform to perform **static code analysis using machine learning** to find critical defects in software modules of **large safety critical software projects**
-      - Tools Used: C++, Python, Scikit-learn, Numpy, Pandas, Matplotlib
+      - Tools Used: <mark>C++</mark> <mark>Python</mark> <mark>Scikit-learn</mark> <mark>Numpy</mark> <mark>Pandas</mark> <mark>Matplotlib</mark>
 
 - layout: left
   name: Lahore University of Management Sciences (LUMS), Pakistan
@@ -23,4 +23,4 @@
 
     **Bachelor Thesis:** *Control System Implementation of an Autonomous Robot*
       - Developed an autonomous robot using **obstacle avoidance and SLAM algorithms**
-      - Tools Used: Robot Operating System (ROS), C++, Linux
+      - Tools Used: <mark>Robot Operating System (ROS)</mark> <mark>C++</mark> <mark>Linux</mark>

@@ -1,6 +1,6 @@
 # Experience List
 - layout: left
-  company: FARO Technologies Inc.
+  company: FARO Technologies Inc. (Germany)
   link: https://www.faro.com
   job_title: Software Engineer (Research & Development)
   dates: July 2018 - Present
@@ -10,19 +10,23 @@
     - Working on development of [FARO SCENE](https://www.faro.com/en-gb/products/construction-bim-cim/faro-scene/)
     - A 3D documentation software for **processing, registering and visualizing large point clouds** from terrestrial and handheld 3D laser scanners
     - Tasks:
-      - Algorithms for large point cloud data
-      - Managing huge legacy code base
-    - Technologies: C++17, Python, JavaScript
+      - High Performance Processing Algorithms for Large Point Cloud Data
+      - Feature Development for New Workflows
+      - Maintaining and Improving Huge Legacy Code Base
+    - Technologies: <mark>C++17</mark> <mark>Python</mark> <mark>JavaScript</mark>
 
 - layout: left
-  company: Compositence GmbH.
+  company: Compositence GmbH (Germany)
   link: https://www.compositence.com
   job_title: Software Engineer (Product Development)
   dates: January 2016 - June 2018
   #quote: >
   #  Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    - Developed a CAD software used for 3D visualizations and robot path calculations
-    - Worked independently on geometric algorithms and feature development (design, development and testing)
-    - Open source contributions to [OpenCascade CAD Library](https://tracker.dev.opencascade.org/)
-    - Technologies: C++14, OpenCascade, Qt, Boost C++, Doxygen, Git, CMake
+    - Worked on feature development of [LayupPlanner](http://www.compositence.com/en/products/software/)
+    - A CAD software used for 3D design and robot path calculations for manufacturing carbon composite parts
+    - Tasks:
+      - Developing Efficient Geometric Algorithms
+      - Feature Development and Architectural Improvements
+      - Open source contributions to [OpenCascade CAD Library](https://www.opencascade.com/content/overview)
+    - Technologies: <mark>C++14</mark> <mark>OpenCascade</mark> <mark>Qt</mark> <mark>mBoost C++</mark> <mark>Doxygen</mark> <mark>Git</mark> <mark>CMake</mark>

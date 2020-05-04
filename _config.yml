@@ -52,13 +52,13 @@ about_content: | # this will include new lines to allow paragraphs
 
   I love working on software systems where **performance** and **scalability** are essential. I have worked mainly with <mark>C++</mark> in my professional career but I have also worked with various other programming languages like <mark>Python</mark> and <mark>JavaScript</mark> to accomplish other code generation, scripting tools and user interface tasks.
 
-  I am passionate about **learning new programming languages**, **writing maintainable software** and **designing software with reusable deployable modules**.
+  I am passionate about **learning new programming languages**, **writing maintainable software** and **designing modular software with reusable components**.
 
   My **Research Interests** are:
     - High Performance Computing
       - Parallel and Distributed Computing
-      - Source code optimizations (instruction level, caching)
-      - Data structures and algorithms
+      - Source Code Optimizations (Instruction Level, Caching)
+      - Data Structures and Algorithms
     - Computer Security
 
 # Projects Section
