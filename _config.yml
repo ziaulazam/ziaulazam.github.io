@@ -48,18 +48,11 @@ twitter_username: zia_ul_azam
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Zia. I am a software engineer with over **4 years** of experience. I am currently living in a nice beautiful town called Ludwigsburg in Germany.
+  Hi, I'm Zia. I am a software engineer with over **5 years** of industry experience. I have worked professionally on software products that are being used to design state of the art microprocessors and visualize 3D point cloud data and complex CAD geometries.
 
-  I love working on software systems where **performance** and **scalability** are essential. I have worked mainly with <mark>C++</mark> in my professional career but I have also worked with various other programming languages like <mark>Python</mark> and <mark>JavaScript</mark> to accomplish other code generation, scripting tools and user interface tasks.
+  I love working on software systems where **performance** and **scalability** are essential. I have worked mainly with <mark>C++</mark> in my professional career but I have also worked with various other programming languages like <mark>Python</mark> and <mark>JavaScript</mark> to accomplish other code generation, scripting tools and user interface development tasks.
 
-  I am passionate about **learning new programming languages**, **writing maintainable software** and **designing modular software with reusable components**.
-
-  My **Research Interests** are:
-    - High Performance Computing
-      - Parallel and Distributed Computing
-      - Source Code Optimizations (Instruction Level, Caching)
-      - Data Structures and Algorithms
-    - Computer Security
+  I am passionate about **software performance engineering**, **computer security** and **learning about computing from first principles**.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

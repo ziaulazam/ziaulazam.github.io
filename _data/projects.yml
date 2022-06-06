@@ -4,9 +4,9 @@
   link: https://ziaulazam.github.io/tech-hub
   github: ziaulazam/tech-hub
   quote: >
-    Collection of Wikis Containing Articles on Software Engineering Fundamentals and Technologies
+    Blog, Links and Notes on Software Engineering
   description: | # this will include new lines to allow paragraphs
-    - I developed these collection of community driven wikis to serve as a knowledge management tool to aid learning efforts
-    - A wiki is a collection of arranged web page serving static content (learning notes, research) written in markdown files
-    - These wikis are arranged in a hierarchy using subwikis as well in order to logically group related topics
-    - Tools Used: <mark>React</mark> <mark>Docusaurus2</mark>
+    - Created this as a knowledge management tool for myself to collect useful links and notes on computer science
+    - It is a collection static websites for various topics where the content gets rendered from markdown files
+    - Made use of some scripting to make content editing simpler and faster
+    - Tools Used: <mark>React</mark> <mark>Docusaurus2</mark> <mark>Python3</mark>

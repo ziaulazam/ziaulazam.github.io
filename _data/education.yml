@@ -6,7 +6,7 @@
   #quote: >
   #  Some quote
   description: | # this will include new lines to allow paragraphs
-    **_CGPA:_** *1.6 (German Grading System)*
+    **_CGPA:_** *1.6 (German Grading System Max: 1.0)*
 
     **Master Thesis:** *Heuristics and Machine Learning for Real-time Software - Concept and Implementation*
       - Implemented a platform to perform **static code analysis using machine learning** to find critical defects in software modules of **large safety critical software projects**
@@ -19,7 +19,7 @@
   #quote: >
   #  Some quote
   description: | # this will include new lines to allow paragraphs
-    **_CGPA:_** *1.3 (German Grading System)*
+    **_CGPA:_** *3.72 (American Grading System Max: 4.0)*
 
     **Bachelor Thesis:** *Control System Implementation of an Autonomous Robot*
       - Developed an autonomous robot using **obstacle avoidance and SLAM algorithms**
