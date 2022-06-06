@@ -3,7 +3,6 @@
   [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
   [![Build Status](https://travis-ci.com/ziaulazam/ziaulazam.github.io.svg?branch=master)](https://travis-ci.com/ziaulazam/ziaulazam.github.io)
   [![Repo Type: Resume](https://img.shields.io/badge/repo%20type-resume-lightgrey.svg)](#resume)
-  [![HitCount](http://hits.dwyl.io/ziaulazam/ziaulazam.github.io.svg)](http://hits.dwyl.io/ziaulazam/ziaulazam.github.io)
   [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
   [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ziaulazam/ziaulazam.github.io/blob/master/LICENSE)
 
