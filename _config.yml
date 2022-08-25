@@ -6,18 +6,19 @@ favicon: favicon.svg
 name: Zia ul Azam
 title: Software Engineer
 email: zia.azam999@gmail.com
-phone: +49 152 59333514
+#phone: +49 152 59333514
+location: Cambridge, UK
 website: https://ziaulazam.github.io
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Social links
-download_resume: true
+#download_resume: true
 github_username: ziaulazam
 linkedin_username: ziaulazam
 stackoverflow_username: "10338646"
-twitter_username: zia_ul_azam
+#twitter_username: zia_ul_azam
 
 #dribbble_username: jekyll
 #facebook_username: jekyll
