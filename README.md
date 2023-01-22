@@ -120,7 +120,7 @@ Any changes you make will automatically build and you will be able to see these 
 ## Updating bundles on GitHub Workspaces
 ```
 sudo nano /etc/apt/sources.list
-add this line to file: deb http://security.ubuntu.com/ubuntu bionic-security main
+add deb http://security.ubuntu.com/ubuntu bionic-security main
 sudo apt update && apt-cache policy libssl1.0-dev
 sudo apt-get install libssl1.0-dev
 
