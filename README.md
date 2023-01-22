@@ -116,3 +116,14 @@ You can do that by running: `gem install jekyll bundler`
 Any changes you make will automatically build and you will be able to see these by refreshing your browser.
 
 *Note: You will need to re-run `bundle exec jekyll serve` to see changes made in `_config.yml`.*
+
+## Updating bundles on GitHub Workspaces
+sudo nano /etc/apt/sources.list
+add this line to file: deb http://security.ubuntu.com/ubuntu bionic-security main
+sudo apt update && apt-cache policy libssl1.0-dev
+sudo apt-get install libssl1.0-dev
+
+rvm install "ruby-2.3"
+rvm list
+gem install bundler:2.3.15
+bundle update
